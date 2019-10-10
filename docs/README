@@ -5,4 +5,8 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+which-parts-of-a-rsa-private-key-is-secret.txt
+  Which parts of a RSA private key is secret?
+  Looks like the Modulus of the private key need *not* be kept secret.
+  https://stackoverflow.com/questions/23655052/which-parts-of-a-rsa-private-key-is-secret
 
