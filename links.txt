@@ -14,4 +14,5 @@ by Justin Ellingwood
 https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-apache-in-ubuntu-16-04
 
 SSL/TLS Strong Encryption: FAQ
+Very good details here from the source
 https://httpd.apache.org/docs/2.4/ssl/ssl_faq.html
