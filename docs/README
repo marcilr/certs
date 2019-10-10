@@ -5,8 +5,16 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+verify-certificate-matches-key-file.txt
+  Verify the certificate matchs the key file.
+  To do this verify that the modulus of the
+  certificate file and key match:
+
+  openssl rsa -noout -modulus -in FILE.key
+  openssl req -noout -modulus -in FILE.csr
+  openssl x509 -noout -modulus -in FILE.cer
+
 which-parts-of-a-rsa-private-key-is-secret.txt
   Which parts of a RSA private key is secret?
   Looks like the Modulus of the private key need *not* be kept secret.
   https://stackoverflow.com/questions/23655052/which-parts-of-a-rsa-private-key-is-secret
-
