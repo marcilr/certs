@@ -8,6 +8,9 @@ Filelist
 certs.txt
   Certificates
 
+docs/
+  Documentation
+
 links.txt
   Certificate related links
 
