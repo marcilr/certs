@@ -1,0 +1,9 @@
+#.gitignore
+# Created Thu Oct 10 09:33:35 AKDT 2019
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore.
+#
+.gitignore
+csr/
+self-signed-certificates/
