@@ -1,0 +1,15 @@
+README
+Created Thu Oct 10 08:42:14 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+certs.txt
+  Certificates
+
+links.txt
+  Certificate related links
+
+self-signed-certificate/
+  Self-signed SSL Certificates
