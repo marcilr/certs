@@ -8,5 +8,10 @@ Certificate related links
 
 Links
 =====
+How To Create a Self-Signed SSL Certificate for Apache in Ubuntu 16.04
+Posted April 21, 2016
+by Justin Ellingwood
+https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-apache-in-ubuntu-16-04
+
 SSL/TLS Strong Encryption: FAQ
 https://httpd.apache.org/docs/2.4/ssl/ssl_faq.html
